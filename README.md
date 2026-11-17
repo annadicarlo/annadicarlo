@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @annadicarlo
-- 💻 Currently a Technology Analyst at Accenture
+- 💻 Currently a Software Engineer at Accenture
 - 📩 How to reach me - https://www.linkedin.com/in/anna-dicarlo
 - 📓 Education: B.S. in CS from Virginia Tech 2023 (Go Hokies!)
 - 😄 Pronouns: she/her
